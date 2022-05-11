@@ -1,2 +1,2 @@
 # archmin
-Web admin UI for Arch Linux
+Web admin UI for Arch Linux - ARCH adMIN
